@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhargav
 - 👀 I’m interested in Web Devloping
-- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate With Cloud9
 
 <!---
